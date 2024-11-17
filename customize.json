@@ -1,16 +1,16 @@
 {
   "greeting": "你好啊",
-  "name": "我的梦梦公主",
+  "name": "梦梦公主",
   "greetingText": "很庆幸能在最美丽的年华遇见最美丽的你",
   "wishText": "朱颜长似，头上花枝，岁岁年年。愿君青丝不老，岁岁皆欢。",
   "imagePath": "img/MengMeng.png",
   "text1": "今天是你的生日啊!!! :D",
   "textInChatBox": "非常非常非常诚挚的祝你生日快乐！！！很多很多的快乐……",
   "sendButtonLabel": "发送",
-  "text2": "我想给你一个惊喜",
+  "text2": "想给你一个惊喜",
   "text3": "我认真的想了很久",
-  "text4": "我认识到，我想要做一些",
-  "text4Adjective": "特殊的事情",
+  "text4": "想给你过一个",
+  "text4Adjective": "特殊的生日",
   "text5Entry": "因为，",
   "text5Content": "你对于我来说，很特殊",
   "smiley": ":)",
@@ -18,6 +18,6 @@
   "bigTextPart2": "以",
   "wishHeading": "生日快乐啊!",
   "outroText": "我希望你喜欢这个小小的惊喜!",
-  "replayText": "如果你喜欢的话，可以再看一次哦!或者……",
+  "replayText": "如果你喜欢的话，可以再看一次哦!",
   "outroSmiley": ":)"
 }
